@@ -547,6 +547,10 @@ img {
   color: #ffffff;
 }
 
+.footer-label-mail {
+  gap: 24px;
+}
+
 .footer-input::placeholder {
   font: 400 12px / 2 "Roboto", sans-serif;
   letter-spacing: 0.04em;
