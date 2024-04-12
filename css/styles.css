@@ -519,6 +519,7 @@ img {
 .footer-subscribe-mail {
   width: 453px;
   height: 80px;
+  padding-left: 80px;
 }
 
 .footer-email-text {
