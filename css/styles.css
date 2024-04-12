@@ -515,3 +515,48 @@ img {
 .footer-icon {
   fill: #f4f4fd;
 }
+
+.footer-subscribe {
+  width: 453px;
+  height: 80px;
+}
+
+.footer-email-text {
+  font: 500 16px / 1.5 "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.footer-form {
+  display: flex;
+  gap: 8px;
+}
+.footer-input {
+  border: 1.5px solid #fff;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  width: 264px;
+  height: 40px;
+}
+
+.footer-input::placeholder {
+  font: 400 12px / 2 "Roboto", sans-serif;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin: 8px 16px;
+}
+.footer-btn {
+  background: #4d5ae5;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 24px;
+  border-radius: 4px;
+  width: 165px;
+  height: 40px;
+  color: #fff;
+}
