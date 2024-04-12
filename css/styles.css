@@ -530,7 +530,7 @@ img {
 
 .footer-form-mail {
   display: flex;
-  gap: 8px;
+  gap: 24px;
 }
 .footer-input {
   border: 1.5px solid #fff;
@@ -548,7 +548,6 @@ img {
 }
 
 .footer-label-mail {
-  gap: 24px;
 }
 
 .footer-input::placeholder {
