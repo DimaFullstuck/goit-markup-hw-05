@@ -732,7 +732,6 @@ img {
 }
 
 .model-content-wrap {
-  display: inline-flex;
 }
 
 .checkbox-title-form:checked + .modal-content-lab span {
