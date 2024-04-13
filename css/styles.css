@@ -630,12 +630,6 @@ img {
   fill: #ffffff;
 }
 
-/* .modal-open-btn :focus {
-  background-color: #404bbf;
-  border: none;
-  fill: #ffffff;
-} */
-
 .footer-icon-subscribe {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -744,6 +738,7 @@ img {
   align-items: center;
   width: 16px;
   height: 16px;
+  display: flex;
   display: inline-flex;
   justify-content: center;
   align-items: center;
