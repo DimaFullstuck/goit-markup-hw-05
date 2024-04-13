@@ -785,13 +785,13 @@ img {
   background-color: #404bbf;
 }
 
-.modal-container-btn {
+/* .modal-container-btn {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   flex-direction: row;
   gap: 10px;
-}
+} */
 
 .modal-btn-check {
   display: block;
