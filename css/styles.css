@@ -575,6 +575,10 @@ img {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
+.footer-btn:focus,
+.footer-btn:hover {
+  background-color: #404bbf;
+}
 .footer-icon-subscribe {
 }
 /* ------------------Modal form---close-------------------- */
