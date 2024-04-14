@@ -574,6 +574,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-btn:focus,
 .footer-btn:hover {
@@ -648,7 +649,7 @@ img {
 /* -------------Modal form name--------- */
 .modal-title-form {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
@@ -798,4 +799,8 @@ img {
 .modal-btn-check:hover,
 .modal-btn-check:focus {
   background: #404bbf;
+}
+
+.checkbox-title-form:focus + .modal-content-lab span {
+  border-color: #4d5ae5;
 }
